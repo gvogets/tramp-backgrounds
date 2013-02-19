@@ -67,8 +67,8 @@ cut: colored
 clean:
 	rm -f mask.png
 	rm -f transparent.png
-	rm -rf colored
 	rm -rf cut
 
 mrproper: clean
 	rm -f blender.png
+	rm -rf colored
