@@ -1,8 +1,6 @@
-# Wallpapers for LiMux 'tramp'
-
 ## Description
 
-Scripts to generate the default wallpaper for LiMux 5.0 (12.04 LTS)
+Scripts to generate the default wallpaper for LiMux 5.0
 
 ## Requirements
 
